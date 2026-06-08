@@ -10,6 +10,7 @@ dependencies = [
     "charset-normalizer==3.4.7",
     "django==6.0.4",
     "djangorestframework==3.17.1",
+    "djangorestframework-simplejwt>=5.3.1",
     "drf-spectacular==0.29.0",
     "idna==3.13",
     "inflection==0.5.1",
@@ -17,6 +18,7 @@ dependencies = [
     "jsonschema-specifications==2025.9.1",
     "psycopg==3.3.2",
     "psycopg-binary==3.3.2",
+    "psycopg2-binary>=2.9.12",
     "python-dotenv==1.2.2",
     "pyyaml==6.0.3",
     "referencing==0.37.0",
@@ -26,4 +28,5 @@ dependencies = [
     "tzdata==2025.3",
     "uritemplate==4.2.0",
     "urllib3==2.6.3",
+    "utils>=1.0.2",
 ]
